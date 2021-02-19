@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ASVK_Main_Task" targetName="ASVK_Main_Task" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ce0009d-6151-46d1-a485-0b495b77511c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aEXxyLh4c47nd7Ty1mkcfS9vAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Input_Maker" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ASVK_Main_Task" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/test128.xml" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ASVK_Main_Task" TARGET_NAME="ASVK_Main_Task" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ASVK_Main_Task" RUN_TARGET_NAME="ASVK_Main_Task">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="124" width="800" height="677" key="#Inspections" timestamp="1586302337206">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="630" y="124" width="800" height="677" key="#Inspections/67.27.1373.873@67.27.1373.873" timestamp="1586302337206" />
+    <state x="356" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586374908197">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="356" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1586374908197" />
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586363949800">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1586363949800" />
+    <state width="1350" height="218" key="GridCell.Tab.0.bottom" timestamp="1586375001602">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="218" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1586375001602" />
+    <state width="1350" height="218" key="GridCell.Tab.0.center" timestamp="1586375001602">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="218" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1586375001602" />
+    <state width="1350" height="218" key="GridCell.Tab.0.left" timestamp="1586375001602">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="218" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1586375001602" />
+    <state width="1350" height="218" key="GridCell.Tab.0.right" timestamp="1586375001602">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="218" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1586375001602" />
+    <state width="1350" height="271" key="GridCell.Tab.1.bottom" timestamp="1586375001550">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="271" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1586375001550" />
+    <state width="1350" height="271" key="GridCell.Tab.1.center" timestamp="1586375001550">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="271" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1586375001550" />
+    <state width="1350" height="271" key="GridCell.Tab.1.left" timestamp="1586375001550">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="271" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1586375001550" />
+    <state width="1350" height="271" key="GridCell.Tab.1.right" timestamp="1586375001550">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="271" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1586375001550" />
+    <state x="715" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1586360574444">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="715" y="221" width="672" height="678" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1586360574444" />
+  </component>
+</project>

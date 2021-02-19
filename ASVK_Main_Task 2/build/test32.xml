@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<Task>
+	<Proc_Num num="4" />
+	<Top_Proc_Workload>
+		<Proc percent="100" />
+		<Proc percent="100" />
+		<Proc percent="60" />
+		<Proc percent="80" />
+	</Top_Proc_Workload>
+	<Prog_Num num="32" />
+	<Top_Prog_Workload>
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="10" />
+		<Prog percent="5" />
+		<Prog percent="20" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="10" />
+		<Prog percent="5" />
+		<Prog percent="10" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="10" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="20" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="5" />
+		<Prog percent="10" />
+	</Top_Prog_Workload>
+	<Prog_Pairs>
+		<Paired_With>
+			<Pair pair="2" Kb="100" />
+			<Pair pair="9" Kb="100" />
+			<Pair pair="10" Kb="10" />
+			<Pair pair="11" Kb="50" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="18" Kb="10" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="24" Kb="50" />
+			<Pair pair="26" Kb="50" />
+			<Pair pair="27" Kb="50" />
+			<Pair pair="29" Kb="0" />
+			<Pair pair="30" Kb="50" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="100" />
+			<Pair pair="6" Kb="10" />
+			<Pair pair="8" Kb="10" />
+			<Pair pair="10" Kb="50" />
+			<Pair pair="11" Kb="0" />
+			<Pair pair="12" Kb="100" />
+			<Pair pair="13" Kb="100" />
+			<Pair pair="14" Kb="100" />
+			<Pair pair="16" Kb="0" />
+			<Pair pair="17" Kb="0" />
+			<Pair pair="19" Kb="10" />
+			<Pair pair="20" Kb="100" />
+			<Pair pair="22" Kb="10" />
+			<Pair pair="26" Kb="50" />
+			<Pair pair="28" Kb="0" />
+			<Pair pair="29" Kb="50" />
+			<Pair pair="30" Kb="0" />
+			<Pair pair="32" Kb="10" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="5" Kb="10" />
+			<Pair pair="6" Kb="0" />
+			<Pair pair="7" Kb="10" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="15" Kb="0" />
+			<Pair pair="16" Kb="0" />
+			<Pair pair="17" Kb="0" />
+			<Pair pair="21" Kb="10" />
+			<Pair pair="25" Kb="10" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="28" Kb="50" />
+			<Pair pair="30" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="5" Kb="100" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="11" Kb="10" />
+			<Pair pair="12" Kb="0" />
+			<Pair pair="13" Kb="100" />
+			<Pair pair="14" Kb="0" />
+			<Pair pair="15" Kb="50" />
+			<Pair pair="16" Kb="50" />
+			<Pair pair="17" Kb="50" />
+			<Pair pair="18" Kb="10" />
+			<Pair pair="22" Kb="100" />
+			<Pair pair="23" Kb="100" />
+			<Pair pair="24" Kb="0" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="30" Kb="0" />
+			<Pair pair="31" Kb="10" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="3" Kb="10" />
+			<Pair pair="4" Kb="100" />
+			<Pair pair="7" Kb="0" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="14" Kb="100" />
+			<Pair pair="15" Kb="50" />
+			<Pair pair="16" Kb="10" />
+			<Pair pair="18" Kb="50" />
+			<Pair pair="19" Kb="10" />
+			<Pair pair="20" Kb="100" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="23" Kb="100" />
+			<Pair pair="26" Kb="100" />
+			<Pair pair="27" Kb="100" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="10" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="9" Kb="100" />
+			<Pair pair="11" Kb="100" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="17" Kb="50" />
+			<Pair pair="19" Kb="100" />
+			<Pair pair="22" Kb="100" />
+			<Pair pair="23" Kb="0" />
+			<Pair pair="24" Kb="50" />
+			<Pair pair="25" Kb="100" />
+			<Pair pair="26" Kb="50" />
+			<Pair pair="29" Kb="100" />
+			<Pair pair="31" Kb="50" />
+			<Pair pair="32" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="3" Kb="10" />
+			<Pair pair="5" Kb="0" />
+			<Pair pair="10" Kb="10" />
+			<Pair pair="11" Kb="100" />
+			<Pair pair="12" Kb="0" />
+			<Pair pair="15" Kb="10" />
+			<Pair pair="18" Kb="50" />
+			<Pair pair="19" Kb="50" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="31" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="10" />
+			<Pair pair="3" Kb="50" />
+			<Pair pair="10" Kb="50" />
+			<Pair pair="12" Kb="10" />
+			<Pair pair="13" Kb="50" />
+			<Pair pair="16" Kb="50" />
+			<Pair pair="19" Kb="100" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="21" Kb="50" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="25" Kb="100" />
+			<Pair pair="28" Kb="100" />
+			<Pair pair="29" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="100" />
+			<Pair pair="3" Kb="10" />
+			<Pair pair="5" Kb="10" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="13" Kb="100" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="15" Kb="10" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="18" Kb="0" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="23" Kb="10" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="29" Kb="50" />
+			<Pair pair="30" Kb="10" />
+			<Pair pair="31" Kb="10" />
+			<Pair pair="32" Kb="50" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="10" />
+			<Pair pair="2" Kb="50" />
+			<Pair pair="3" Kb="100" />
+			<Pair pair="4" Kb="100" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="7" Kb="10" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="9" Kb="100" />
+			<Pair pair="11" Kb="10" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="16" Kb="0" />
+			<Pair pair="17" Kb="100" />
+			<Pair pair="18" Kb="50" />
+			<Pair pair="19" Kb="100" />
+			<Pair pair="22" Kb="100" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="26" Kb="100" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="29" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="50" />
+			<Pair pair="2" Kb="0" />
+			<Pair pair="4" Kb="10" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="7" Kb="100" />
+			<Pair pair="10" Kb="10" />
+			<Pair pair="12" Kb="0" />
+			<Pair pair="14" Kb="50" />
+			<Pair pair="17" Kb="0" />
+			<Pair pair="22" Kb="10" />
+			<Pair pair="24" Kb="50" />
+			<Pair pair="25" Kb="10" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="28" Kb="0" />
+			<Pair pair="30" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="100" />
+			<Pair pair="4" Kb="0" />
+			<Pair pair="7" Kb="0" />
+			<Pair pair="8" Kb="10" />
+			<Pair pair="11" Kb="0" />
+			<Pair pair="13" Kb="50" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="15" Kb="10" />
+			<Pair pair="16" Kb="50" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="22" Kb="0" />
+			<Pair pair="27" Kb="50" />
+			<Pair pair="28" Kb="50" />
+			<Pair pair="31" Kb="100" />
+			<Pair pair="32" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="100" />
+			<Pair pair="4" Kb="100" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="9" Kb="100" />
+			<Pair pair="12" Kb="50" />
+			<Pair pair="15" Kb="50" />
+			<Pair pair="16" Kb="10" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="19" Kb="50" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="21" Kb="0" />
+			<Pair pair="24" Kb="10" />
+			<Pair pair="26" Kb="100" />
+			<Pair pair="29" Kb="50" />
+			<Pair pair="31" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="10" />
+			<Pair pair="2" Kb="100" />
+			<Pair pair="4" Kb="0" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="6" Kb="10" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="10" />
+			<Pair pair="11" Kb="50" />
+			<Pair pair="12" Kb="10" />
+			<Pair pair="15" Kb="10" />
+			<Pair pair="17" Kb="100" />
+			<Pair pair="18" Kb="50" />
+			<Pair pair="24" Kb="50" />
+			<Pair pair="25" Kb="0" />
+			<Pair pair="26" Kb="50" />
+			<Pair pair="27" Kb="100" />
+			<Pair pair="31" Kb="50" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="3" Kb="0" />
+			<Pair pair="4" Kb="50" />
+			<Pair pair="5" Kb="50" />
+			<Pair pair="7" Kb="10" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="12" Kb="10" />
+			<Pair pair="13" Kb="50" />
+			<Pair pair="14" Kb="10" />
+			<Pair pair="16" Kb="100" />
+			<Pair pair="17" Kb="50" />
+			<Pair pair="18" Kb="100" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="22" Kb="0" />
+			<Pair pair="23" Kb="100" />
+			<Pair pair="25" Kb="100" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="28" Kb="10" />
+			<Pair pair="29" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="0" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="4" Kb="50" />
+			<Pair pair="5" Kb="10" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="10" Kb="0" />
+			<Pair pair="12" Kb="50" />
+			<Pair pair="13" Kb="10" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="18" Kb="100" />
+			<Pair pair="19" Kb="100" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="22" Kb="50" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="28" Kb="50" />
+			<Pair pair="31" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="0" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="4" Kb="50" />
+			<Pair pair="6" Kb="50" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="11" Kb="0" />
+			<Pair pair="13" Kb="10" />
+			<Pair pair="14" Kb="100" />
+			<Pair pair="15" Kb="50" />
+			<Pair pair="20" Kb="100" />
+			<Pair pair="21" Kb="50" />
+			<Pair pair="25" Kb="10" />
+			<Pair pair="26" Kb="10" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="28" Kb="0" />
+			<Pair pair="31" Kb="10" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="10" />
+			<Pair pair="4" Kb="10" />
+			<Pair pair="5" Kb="50" />
+			<Pair pair="7" Kb="50" />
+			<Pair pair="9" Kb="0" />
+			<Pair pair="10" Kb="50" />
+			<Pair pair="14" Kb="50" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="16" Kb="100" />
+			<Pair pair="21" Kb="0" />
+			<Pair pair="22" Kb="100" />
+			<Pair pair="24" Kb="10" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="27" Kb="100" />
+			<Pair pair="28" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="10" />
+			<Pair pair="5" Kb="10" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="7" Kb="50" />
+			<Pair pair="8" Kb="100" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="13" Kb="50" />
+			<Pair pair="16" Kb="100" />
+			<Pair pair="20" Kb="0" />
+			<Pair pair="22" Kb="50" />
+			<Pair pair="23" Kb="10" />
+			<Pair pair="24" Kb="0" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="30" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="100" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="7" Kb="10" />
+			<Pair pair="8" Kb="10" />
+			<Pair pair="12" Kb="10" />
+			<Pair pair="13" Kb="10" />
+			<Pair pair="16" Kb="10" />
+			<Pair pair="17" Kb="100" />
+			<Pair pair="19" Kb="0" />
+			<Pair pair="22" Kb="0" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="28" Kb="10" />
+			<Pair pair="29" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="100" />
+			<Pair pair="3" Kb="10" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="9" Kb="100" />
+			<Pair pair="13" Kb="0" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="16" Kb="100" />
+			<Pair pair="17" Kb="50" />
+			<Pair pair="18" Kb="0" />
+			<Pair pair="22" Kb="50" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="24" Kb="100" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="29" Kb="10" />
+			<Pair pair="32" Kb="10" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="10" />
+			<Pair pair="4" Kb="100" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="11" Kb="10" />
+			<Pair pair="12" Kb="0" />
+			<Pair pair="15" Kb="0" />
+			<Pair pair="16" Kb="50" />
+			<Pair pair="18" Kb="100" />
+			<Pair pair="19" Kb="50" />
+			<Pair pair="20" Kb="0" />
+			<Pair pair="21" Kb="50" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="24" Kb="10" />
+			<Pair pair="27" Kb="10" />
+			<Pair pair="30" Kb="10" />
+			<Pair pair="31" Kb="50" />
+			<Pair pair="32" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="4" Kb="100" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="6" Kb="0" />
+			<Pair pair="7" Kb="50" />
+			<Pair pair="8" Kb="50" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="50" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="19" Kb="10" />
+			<Pair pair="20" Kb="50" />
+			<Pair pair="21" Kb="50" />
+			<Pair pair="22" Kb="50" />
+			<Pair pair="25" Kb="0" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="28" Kb="10" />
+			<Pair pair="29" Kb="50" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="50" />
+			<Pair pair="4" Kb="0" />
+			<Pair pair="6" Kb="50" />
+			<Pair pair="11" Kb="50" />
+			<Pair pair="13" Kb="10" />
+			<Pair pair="14" Kb="50" />
+			<Pair pair="18" Kb="10" />
+			<Pair pair="19" Kb="0" />
+			<Pair pair="21" Kb="100" />
+			<Pair pair="22" Kb="10" />
+			<Pair pair="25" Kb="50" />
+			<Pair pair="26" Kb="100" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="29" Kb="0" />
+			<Pair pair="30" Kb="100" />
+			<Pair pair="32" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="3" Kb="10" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="8" Kb="100" />
+			<Pair pair="11" Kb="10" />
+			<Pair pair="14" Kb="0" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="23" Kb="0" />
+			<Pair pair="24" Kb="50" />
+			<Pair pair="29" Kb="10" />
+			<Pair pair="31" Kb="50" />
+			<Pair pair="32" Kb="50" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="50" />
+			<Pair pair="2" Kb="50" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="6" Kb="50" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="13" Kb="100" />
+			<Pair pair="14" Kb="50" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="18" Kb="0" />
+			<Pair pair="19" Kb="0" />
+			<Pair pair="21" Kb="0" />
+			<Pair pair="23" Kb="0" />
+			<Pair pair="24" Kb="100" />
+			<Pair pair="29" Kb="100" />
+			<Pair pair="30" Kb="0" />
+			<Pair pair="31" Kb="10" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="50" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="4" Kb="10" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="7" Kb="0" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="10" Kb="10" />
+			<Pair pair="11" Kb="0" />
+			<Pair pair="12" Kb="50" />
+			<Pair pair="14" Kb="100" />
+			<Pair pair="15" Kb="0" />
+			<Pair pair="16" Kb="10" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="18" Kb="100" />
+			<Pair pair="19" Kb="10" />
+			<Pair pair="20" Kb="0" />
+			<Pair pair="22" Kb="10" />
+			<Pair pair="24" Kb="0" />
+			<Pair pair="28" Kb="50" />
+			<Pair pair="29" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="2" Kb="0" />
+			<Pair pair="3" Kb="50" />
+			<Pair pair="8" Kb="100" />
+			<Pair pair="11" Kb="0" />
+			<Pair pair="12" Kb="50" />
+			<Pair pair="15" Kb="10" />
+			<Pair pair="16" Kb="50" />
+			<Pair pair="17" Kb="0" />
+			<Pair pair="18" Kb="100" />
+			<Pair pair="20" Kb="10" />
+			<Pair pair="23" Kb="10" />
+			<Pair pair="27" Kb="50" />
+			<Pair pair="29" Kb="10" />
+			<Pair pair="31" Kb="50" />
+			<Pair pair="32" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="0" />
+			<Pair pair="2" Kb="50" />
+			<Pair pair="6" Kb="100" />
+			<Pair pair="8" Kb="0" />
+			<Pair pair="9" Kb="50" />
+			<Pair pair="10" Kb="100" />
+			<Pair pair="13" Kb="50" />
+			<Pair pair="15" Kb="0" />
+			<Pair pair="20" Kb="0" />
+			<Pair pair="21" Kb="10" />
+			<Pair pair="23" Kb="50" />
+			<Pair pair="24" Kb="0" />
+			<Pair pair="25" Kb="10" />
+			<Pair pair="26" Kb="100" />
+			<Pair pair="27" Kb="0" />
+			<Pair pair="28" Kb="10" />
+			<Pair pair="30" Kb="50" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="50" />
+			<Pair pair="2" Kb="0" />
+			<Pair pair="3" Kb="0" />
+			<Pair pair="4" Kb="0" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="11" Kb="100" />
+			<Pair pair="19" Kb="0" />
+			<Pair pair="22" Kb="10" />
+			<Pair pair="24" Kb="100" />
+			<Pair pair="26" Kb="0" />
+			<Pair pair="29" Kb="50" />
+			<Pair pair="31" Kb="0" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="4" Kb="10" />
+			<Pair pair="6" Kb="50" />
+			<Pair pair="7" Kb="100" />
+			<Pair pair="9" Kb="10" />
+			<Pair pair="12" Kb="100" />
+			<Pair pair="13" Kb="0" />
+			<Pair pair="14" Kb="50" />
+			<Pair pair="16" Kb="0" />
+			<Pair pair="17" Kb="10" />
+			<Pair pair="22" Kb="50" />
+			<Pair pair="25" Kb="50" />
+			<Pair pair="26" Kb="10" />
+			<Pair pair="28" Kb="50" />
+			<Pair pair="30" Kb="0" />
+			<Pair pair="32" Kb="100" />
+		</Paired_With>
+		<Paired_With>
+			<Pair pair="1" Kb="100" />
+			<Pair pair="2" Kb="10" />
+			<Pair pair="5" Kb="100" />
+			<Pair pair="6" Kb="0" />
+			<Pair pair="9" Kb="50" />
+			<Pair pair="12" Kb="0" />
+			<Pair pair="13" Kb="100" />
+			<Pair pair="15" Kb="100" />
+			<Pair pair="16" Kb="100" />
+			<Pair pair="19" Kb="100" />
+			<Pair pair="20" Kb="100" />
+			<Pair pair="21" Kb="10" />
+			<Pair pair="22" Kb="0" />
+			<Pair pair="24" Kb="0" />
+			<Pair pair="25" Kb="50" />
+			<Pair pair="28" Kb="0" />
+			<Pair pair="29" Kb="100" />
+			<Pair pair="31" Kb="100" />
+		</Paired_With>
+	</Prog_Pairs>
+</Task>

@@ -1,0 +1,3 @@
+/home/parallels/ASVK_Main_Task/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/ASVK_Main_Task/build/CMakeFiles/ASVK_Main_Task.dir
+/home/parallels/ASVK_Main_Task/build/CMakeFiles/edit_cache.dir

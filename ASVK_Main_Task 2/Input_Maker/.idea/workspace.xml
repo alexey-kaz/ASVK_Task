@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled2" targetName="untitled2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab1a2779-e3e0-455c-a3e9-473adf4b293a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aGROTBPj6zGCO9GqL9rWNyAmOG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled2" TARGET_NAME="untitled2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled2" RUN_TARGET_NAME="untitled2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586954214498">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="211" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1586954214498" />
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586360218760">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1586360218760" />
+    <state width="1350" height="83" key="GridCell.Tab.0.bottom" timestamp="1587074555216">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="83" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1587074555216" />
+    <state width="1350" height="83" key="GridCell.Tab.0.center" timestamp="1587074555215">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="83" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1587074555215" />
+    <state width="1350" height="83" key="GridCell.Tab.0.left" timestamp="1587074555215">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="83" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1587074555215" />
+    <state width="1350" height="83" key="GridCell.Tab.0.right" timestamp="1587074555215">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1350" height="83" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1587074555215" />
+  </component>
+</project>
