@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  server:
+    build: ./server
+    command: python3 ./server.py
+    ports:
+        - 8000:8000
+    image: alexeykaz/asvk:server
+  client:
+    build: ./client
+    command: python3 ./client.py
+    ports:
+        - 8000:8000
+    network_mode: host
+    depends_on:
+      - server
+    image: alexeykaz/asvk:client

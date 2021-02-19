@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/ASVK_Extra_Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parallels/CLionProjects/ASVK_Extra_Task1/cmake-build-debug/CMakeFiles/ASVK.dir
+/home/parallels/CLionProjects/ASVK_Extra_Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
